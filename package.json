@@ -1,6 +1,6 @@
 {
-  "name": "twiz-imager",
-  "version": "0.2.14",
+  "name": "@twiz/imager",
+  "version": "0.2.15",
   "description": "Image editing utility for twiz",
   "main": "index.js",
   "scripts": {
